@@ -1,0 +1,38 @@
+2022-09-11 15:09:270 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 15:09:672 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (19527d87ef58377b66f2a2b053f680d3)] -> link text: Log in]
+2022-09-11 15:09:738 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (19527d87ef58377b66f2a2b053f680d3)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-11 15:09:438 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 15:09:675 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (8b5969b0085cd0166672eaa3ddacd6b0)] -> link text: Log in]
+2022-09-11 15:09:741 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (8b5969b0085cd0166672eaa3ddacd6b0)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-09-11 15:09:637 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 15:09:985 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (2868812adfc44cb150fdb97bcf44c575)] -> link text: Log in]
+2022-09-11 15:09:906 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 15:09:782 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b21c4660046692e10a3c827225929ea1)] -> link text: Log in]
+2022-09-11 15:09:49 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 15:09:781 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (be63ea2ceff398ce3b5788b84b690751)] -> link text: Log in]
+2022-09-11 15:09:850 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 15:09:741 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0f9d7c9bbf8c664232972d77822a6d3f)] -> link text: Log in]
+2022-09-11 15:09:486 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 15:09:965 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (ee103cde43cd7707aa7b722eb2626206)] -> link text: Log in]
+2022-09-11 16:09:443 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 16:09:763 INFO  HomePage :42 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (57a3c2be0cc67a2893ff5974209c2f2d)] -> link text: Register]
+2022-09-11 16:09:00 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 16:09:61 INFO  HomePage :42 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (dd8f7f5bfec3ca6de975771b09415683)] -> link text: Register]
+2022-09-11 16:09:739 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 16:09:682 INFO  HomePage :42 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (341c6b00af2e452bfe6504085e89a934)] -> link text: Register]
+2022-09-11 16:09:421 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 16:09:751 INFO  HomePage :42 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (ccd85ac071a44048fe2fa6729c30d174)] -> link text: Register]
+2022-09-11 16:09:481 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 16:09:345 INFO  HomePage :42 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (01807052844c0054a7a77fe6a9b6c175)] -> link text: Register]
+2022-09-11 16:09:512 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 16:09:592 INFO  HomePage :42 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (332250322ba675c4b384fa52429f76e2)] -> link text: Register]
+2022-09-11 16:09:283 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 16:09:472 INFO  HomePage :42 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (311c2a6305508c1e8876ea92253a4980)] -> link text: Register]
+2022-09-11 16:09:93 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 16:09:491 INFO  HomePage :42 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (0d5ba6d0706d4bb3241f8309acb088cd)] -> link text: Register]
+2022-09-11 16:09:775 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 16:09:783 INFO  HomePage :42 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (a585d5bba73b3ff048156b7e1691b54f)] -> link text: Register]
+2022-09-11 16:09:987 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 16:09:88 INFO  HomePage :42 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (ab15b7a4f67ae013adafd2d1a3798843)] -> link text: Register]
+2022-09-11 16:09:461 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-09-11 16:09:164 INFO  HomePage :42 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (ba3fa818e953ee6edacd57ed750dd144)] -> link text: Register]

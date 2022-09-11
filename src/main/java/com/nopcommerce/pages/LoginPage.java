@@ -39,6 +39,35 @@ public class LoginPage extends Utility {
     @FindBy(xpath = "//div[@class='message-error validation-summary-errors']")
     WebElement errorMessage;
 
+    @CacheLookup
+    @FindBy(className = "ico-logout")
+    WebElement logoutLink;
+
+    @CacheLookup
+    @FindBy(id = "FirstName")
+    WebElement registerFirstNameField;
+
+    @CacheLookup
+    @FindBy(id = "LastName")
+    WebElement registerLastNameField;
+
+    @CacheLookup
+    @FindBy(id = "Email")
+    WebElement registerEmailField;
+
+    @CacheLookup
+    @FindBy(id = "Password")
+    WebElement registerPasswordField;
+
+    @CacheLookup
+    @FindBy(id = "ConfirmPassword")
+    WebElement registerCPasswordField;
+
+    @CacheLookup
+    @FindBy(id = "register-button")
+    WebElement registerButton;
+
+
     public String getWelcomeText() {
         String message = getTextFromElement(welcomeText);
         log.info("Getting text from : " + welcomeText.toString());
@@ -61,9 +90,24 @@ public class LoginPage extends Utility {
         return getTextFromElement(errorMessage);
     }
 
-    public void loginToApplication(String email, String password) {
-        enterEmailId(email);
-        enterPassword(password);
-        clickOnLoginButton();
+    public void register(String fName, String lName, String email,String pass, String cpass) throws InterruptedException {
+        sendTextToElement(registerFirstNameField,fName);
+        Thread.sleep(2000);
+        sendTextToElement(registerLastNameField,lName);
+        Thread.sleep(2000);
+        sendTextToElement(registerEmailField,email);
+        Thread.sleep(2000);
+        sendTextToElement(registerPasswordField,pass);
+        Thread.sleep(2000);
+        sendTextToElement(registerCPasswordField,cpass);
+        Thread.sleep(2000);
+       // clickOnElement(registerButton);
     }
+    public String getLogOutText(){
+        return getTextFromElement(logoutLink);
+    }
+    public void clickOnLogOutLink(){
+        clickOnElement(logoutLink);
+    }
+
 }
